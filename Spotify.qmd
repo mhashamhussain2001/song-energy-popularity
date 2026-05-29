@@ -30,7 +30,7 @@ library(performance)
 
 # reading the raw data set
 #to access all available variables for our assignment. 
-raw <- readr::read_csv(("F:/Documents/CSUC/MATH615/data/spotify_songs.csv")) 
+raw <- readr::read_csv(("spotify_songs.csv")) 
 
 
 raw_de <- raw %>% group_by(track_id) %>% 
@@ -275,7 +275,7 @@ library(ggdist)
 library(performance)
 
 # reading the raw data set
-raw <- readr::read_csv(("data/spotify_songs.csv")) 
+raw <- readr::read_csv(("spotify_songs.csv")) 
 
 ```
 
