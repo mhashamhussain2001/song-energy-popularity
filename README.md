@@ -9,7 +9,7 @@ This project investigates whether a song's energy level predicts its popularity,
 ## Key Findings
 * There is a statistically significant but weak negative correlation between energy and popularity (r = –0.08, p < .001)
 * Energy alone explains less than 1% of the variance in popularity
-* The relationship does not meaningfully vary across genres (Pop, Rap, EDM, R&B, Rock, Latin)
+* The relationship does not meaningfully vary across genres (Pop, Rap, EDM, R&B, Rock, Latin), it differs from genre to genre.
 
 ## Methods
 * Pearson correlation (overall and stratified by genre)
